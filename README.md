@@ -8,9 +8,15 @@ script handles all of that for you.
 
 FIRST TIME SETUP
 
-You need to double-click InstallLaunchAndPatchGTAIV.bat
-once before using this script - this will make PowerShell
-scripts executable on your system.
+1. Copy all files into your GTA IV directory.
+
+2. You need to double-click InstallLaunchAndPatchGTAIV.bat once before using this script - this will make PowerShell scripts executable on your system.
+
+HOW TO USE
+
+Just double-click LaunchAndPatchGTAIV.vbs and the game will start.
+
+It will move the dsound.dll out of the way whilst it starts, and then when the Social Club window appears, copy the file back (in the background).
 
 TRIDEF 3D SUPPORT
 
