@@ -56,7 +56,7 @@ while ($sw.elapsed -lt $timeout){
 		Rename-Item $gtaDir\dsound.dll.tmp $gtaDir\dsound.dll
 		return
 	}
-	start-sleep -seconds 3
+	start-sleep -seconds 1
 }
 
 Err "Error: Unable to find the GTA Social Club window within 30 seconds!"
