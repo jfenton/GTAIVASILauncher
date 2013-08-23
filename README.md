@@ -1,5 +1,6 @@
 
-. Launcher for GTA IV + ASI loader
+Launcher for GTA IV + ASI loader
+--------------------------------
 
 Normally you have to mess around with moving dsound.dll
 in and out of the GTA directory during launch, this 
